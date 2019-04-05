@@ -2,8 +2,8 @@
 
 There are 2 types of Map and Reduce Programs which we have made.
 
-- Calculation of overall rating of different games based on platform.
-- Calculation of overall rating of different games based on genre.
+- Calculation of overall sales of different games based on platform.
+- Calculation of overall sales of different games based on genre.
 
 ## Running
 #### To run on local machine
