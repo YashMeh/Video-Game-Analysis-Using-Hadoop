@@ -5,7 +5,7 @@ Here we have used Cassandra for storing data in key,value pair format and have u
 ### Running
 #### To create a NAMESPACE and TABLE in Cassandra
 ```bash
-reate keyspace games with
+create keyspace games with
 replication={'class':'SimpleStrategy','replication_factor':1};
 USE VideoGame
 CREATE ColumnFamily vidgames
