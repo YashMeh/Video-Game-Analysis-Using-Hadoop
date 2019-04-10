@@ -7,7 +7,4 @@ We have used-
 - [MachineLearning](/MachineLearning/README.md)
 - [CassandraAndHive](/CassandraAndHive/README.md)
 
-## Dataset
 
-The dataset we have used can be found here-
- https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
